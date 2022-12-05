@@ -15,5 +15,5 @@ https://apps.apple.com/jp/app/brocky/id1644828094
 
 ## 開発環境
 
-使用ゲームエンジン：Unity v2021.3.1f1
-言語：C#
+- 使用ゲームエンジン：Unity v2021.3.1f1
+- 言語：C#
